@@ -9,5 +9,5 @@ Git
 Android SDK
 ** 5. Code examples ** [link to Git!]https://github.com/dmitriy-marusevich) 
 ** 6. Experience ** [link to Git!]https://github.com/dmitriy-marusevich)
-** 7. Education ** BSUIR
+** 7. Education ** BSUIR + GeekBrains
 ** 8. English ** A1
